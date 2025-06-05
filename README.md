@@ -1,1 +1,1 @@
-# Smart-Weather-MOnitoring-System
+# Smart-Weather-Monitoring-System
