@@ -1,4 +1,4 @@
-# 🌦️ Smart Weather Monitoring System using ESP32
+# 🌦️ Smart Weather Monitoring System using ESP32 ( Embedded )
 
 ## 🔍 Objective
 
